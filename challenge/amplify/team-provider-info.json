@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-challenge-dev-130441-authRole",
+      "UnauthRoleArn": "arn:aws:iam::761823191573:role/amplify-challenge-dev-130441-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::761823191573:role/amplify-challenge-dev-130441-authRole",
+      "Region": "eu-north-1",
+      "DeploymentBucketName": "amplify-challenge-dev-130441-deployment",
+      "UnauthRoleName": "amplify-challenge-dev-130441-unauthRole",
+      "StackName": "amplify-challenge-dev-130441",
+      "StackId": "arn:aws:cloudformation:eu-north-1:761823191573:stack/amplify-challenge-dev-130441/9f6eaeb0-f959-11ed-a4b9-0adc9be88fbc",
+      "AmplifyAppId": "dsmu9q9szp4ih"
+    },
+    "categories": {
+      "auth": {
+        "challengede882f08": {}
+      }
+    }
+  }
+}
